@@ -57,7 +57,7 @@ For any questions or feedback, feel free to reach out:
 - **Mail**: [omkesh2004lamb@gmail.com](mailto:omkesh2004lamb@gmail.com)
 - **Twitter**: [https://x.com/OmkeshLamb1?t=iWdvjbWJEjh1NjhesXQzLg&s=09](https://x.com/OmkeshLamb1?t=iWdvjbWJEjh1NjhesXQzLg&s=09)
 
-Project Link: [https://github.com/OmkeshLamb2004/Medicore/tree/main](https://github.com/OmkeshLamb2004/Medicore/tree/main)
+Project Link: [http://localhost:3000/](http://localhost:3000/)
 
 ---
 
